@@ -17,4 +17,4 @@ We are aiming to build an electronic healthcare record system to keep a track of
 
 * We would also keep a record of DGHS/CGHS and the patient's medical insurance facility to help patients.
 
-**A Project undertaken in CSE202-Fundamentals of Database Management Systems (IIITD Winter, 2021 Semester)
+** A Project undertaken in CSE202-Fundamentals of Database Management Systems (IIITD Winter, 2021 Semester)
