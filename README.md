@@ -15,6 +15,6 @@ We are aiming to build an electronic healthcare record system to keep a track of
 
 * Use of computer vision in uploading and scanning the patient reports and get some input for further use.
 
-* We would also keep a record of DGHS/CGHS and the patient's medical insurance facility to help patients.
+* We would also keep a record of DGHS/CGHS and the patient's medical insurance facility to help patients manage their health better.
 
 **A Project undertaken in CSE202-Fundamentals of Database Management Systems (IIITD Winter, 2021 Semester)**
